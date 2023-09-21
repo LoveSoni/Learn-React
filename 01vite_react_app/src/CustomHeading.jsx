@@ -1,7 +1,7 @@
 
 function GetMyCustomHeading() {
     return (
-        <h2>Hi i'm from custom heading</h2>
+        <h2>Hi i'm from custom headingss</h2>
     )
 }
 
