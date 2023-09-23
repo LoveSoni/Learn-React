@@ -1,9 +1,9 @@
 
 
 function App() {
-
+  const usename = 'love'
   return (
-    <h1>Heyyyy</h1>
+    <h1>Heyyyy {usename}</h1>
   )
 }
 
