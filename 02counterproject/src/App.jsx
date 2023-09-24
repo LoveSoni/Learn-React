@@ -11,6 +11,7 @@ function App() {
     // counter is the value i.e. 5 and increaseCounter is the function which will be used to mannipulate this value
     // counter++;
     // here if we are even updating the value of counter
+
     // it will not upade the our Counter value: label
     if (counter < 20) {
       updateCounter(counter + 1);
